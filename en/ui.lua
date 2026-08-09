@@ -285,6 +285,7 @@ lang["#UI_APPLY"] = "Apply"
 lang["#UI_RCancel"] = "Cancel @+Reload "
 lang["#UI_SPACEConfirm"] = "Confirm @+Jump "
 lang["#UI_CONFIRM"] = "Confirm"
+lang["#UI_SELECT"] = "Select"
 lang["#UI_DELETE"] = "Delete"
 lang["#UI_AREYOUSURE"] = "Are you sure?"
 lang["#UI_CANCEL"] = "Cancel"
@@ -486,6 +487,12 @@ lang["#STAT_DRUNK1"] = "Buzzed"
 lang["#STAT_DRUNK2"] = "Drunk"
 lang["#STAT_DRUNK3"] = "Intoxicated"
 lang["#STAT_DRUNK4"] = "Wasted"
+lang["#STAT_SAFEZONEBUFF"] = "Safe Zone Buff"
+lang["#STAT_SAFEZONEDEBUFF"] = "Safe Zone Debuff"
+
+-- Status Effects Display
+lang["#STAT_PVP_DISABLED"] = "Player Damage Disabled" -- for the safe zone buff applied as you're leaving a safe zone.
+lang["#STAT_DAMAGE_MULT"] = "Damage Multiplier: $mult%"
 
 --Display timer
 lang["#UI_DOWNNOTICE"] = "Recovering..."
@@ -945,6 +952,7 @@ lang["#MISSIONBOARD_GIVER_FALLBACK"] = "Local Contractors"
 lang["#MISSION_ACCEPT"] = "Accept Mission"
 lang["#MISSION_ACCEPT_ONHOSTILE"] = "ACCEPTING MISSION FROM HOSTILE FACTION!\n\nCompleting this mission will make this faction neutral towards you and they will no longer attack you on sight\n\nATTACKING THEM WILL INCUR A CRIME!"
 lang["#MISSION_TURNIN"] = "Turn In"
+lang["#MISSION_TURNIN_MISSION"] = "Turn In: $missionName"
 lang["#MISSION_COMPLETE"] = "Completed."
 lang["#MISSION_KILLS"] = "Kills"
 lang["#MISSION_SELECTREWARD"] = "You've completed the mission. Select a reward."
@@ -1254,6 +1262,10 @@ lang["#SETTING_PVP_REPORT_CRIMES_DESC"] = "Report Crimes against me to protectin
 lang["#UI_SAFEZONE_ENTER"] = "Entering Safe Zone"
 lang["#UI_SAFEZONE_EXIT"] = "Exiting Safe Zone"
 
+-- Warning to tell a player to get a way from a safe zone if they're too close to prevent safe zone camping
+lang["#UI_SAFEZONE_DEBUFF_WARNING"] = "You are too close to a safe zone - you will be debuffed in $time seconds if you don't move away!"
+lang["#UI_PVP_DISABLED"] = "PVP Disabled" -- used to replace the "protected by" in the UI if the player has PVP disabled by, say, a status effect.
+
 lang["#SETTING_PVP_PROTECTION_ENABLED"] = "Faction Protection settings are Enabled"
 lang["#SETTING_PVP_PROTECTION_DISABLED"] = "Faction Protection settings are Disabld!"
 
@@ -1262,6 +1274,8 @@ lang["#SETTING_PVP_PROTECTION_CHARGED"] = "You cannot take or do damage because 
 lang["#SETTING_PVP_ATTACKER_INFACTION"] = "You cannot take or do damage do this individual because they are protected by your faction, the $faction."
 lang["#SETTING_PVP_FACTION_PROTECTION"] = "You cannot damage Faction Members!"
 lang["#SETTING_PVP_FACTION_PROTECTED_BY"] = "Protected by the $factions."
+
+lang["#PVP_APPLYITEMFAIL_PVPSTATE"] = "You cannot apply this item to the target because their PVP State does not match yours"
 
 
 lang["#ITEM_FAKE"] = "Counterfeit"
