@@ -10,7 +10,7 @@ local lang = RSRG.Languages["es-es"]
 -- Repartidor de misiones
 lang["#MISSION_GIVER_BOSGUARD"] = "Paladín Percival"
 lang["#MISSION_GIVER_BOSGUARD_SUBTITLE"] = "Paladín de la Hermandad"
-lang["#MISSION_GIVER_BOSGUARD_NEW"] = "¡Alto, habitante del yermo! Por orden del Anciano Galahad, esta estación está bajo la autoridad de la Hermandad del Acero. Solo aquellos con nuestra autorización pueden entrar.\n\nSi no captaste la indirecta, no estás en esa lista."
+lang["#MISSION_GIVER_BOSGUARD_NEW"] = "¡Alto, habitante del yermo! Por orden del Elder Casdin, esta estación está bajo la autoridad de la Hermandad del Acero. Solo aquellos con nuestra autorización pueden entrar.\n\nSi no captaste la indirecta, no estás en esa lista."
 lang["#MISSION_GIVER_BOSGUARD_N0"] = "¿Has vuelto arrastrándote a rogarnos perdón, canalla? Preferiría dispararte donde estás, pero francamente nuestras necesidades superan mis creencias. Así es como puedes ganarte el perdón."
 lang["#MISSION_GIVER_BOSGUARD_0"] = "¿Ya no te dije que te hicieras útil?"
 lang["#MISSION_GIVER_BOSGUARD_25"] = "Bien, no eres totalmente inútil, pero aún tienes que hacer más antes de que te permita el acceso."
