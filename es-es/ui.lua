@@ -487,6 +487,12 @@ lang["#STAT_DRUNK1"] = "Zumbado"
 lang["#STAT_DRUNK2"] = "Borracho"
 lang["#STAT_DRUNK3"] = "Intoxicado"
 lang["#STAT_DRUNK4"] = "Pasadísimo"
+lang["#STAT_SAFEZONEBUFF"] = "Buff de Zona Segura"
+lang["#STAT_SAFEZONEDEBUFF"] = "Debuff de Zona segura"
+
+-- Status Effects Display
+lang["#STAT_PVP_DISABLED"] = "Daño a jugadores desactivado." -- for the safe zone buff applied as you're leaving a safe zone.
+lang["#STAT_DAMAGE_MULT"] = "Multiplicador de daño: $mult%"
 
 --Display timer
 lang["#UI_DOWNNOTICE"] = "Recuperándote..."
@@ -1259,6 +1265,10 @@ lang["#SETTING_PVP_REPORT_CRIMES_DESC"] = "Reportar Crímenes en mi contra a fac
 
 lang["#UI_SAFEZONE_ENTER"] = "Entrando a zona segura"
 lang["#UI_SAFEZONE_EXIT"] = "Saliendo de zona segura"
+
+-- Warning to tell a player to get a way from a safe zone if they're too close to prevent safe zone camping
+lang["#UI_SAFEZONE_DEBUFF_WARNING"] = "Estas demasiado cerca de una zona segura - ¡serás debuffeado en $time segundos si no te alejas!"
+lang["#UI_PVP_DISABLED"] = "JcJ Desactivado" -- used to replace the "protected by" in the UI if the player has PVP disabled by, say, a status effect.
 
 lang["#SETTING_PVP_PROTECTION_ENABLED"] = "Protección de facción activada."
 lang["#SETTING_PVP_PROTECTION_DISABLED"] = "Protección de facción desactivada!"
