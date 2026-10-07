@@ -25,17 +25,17 @@ lang["#MISSION_HEISENBERG_WENEEDTOCOOK_COMPLETE"] = "Eso es lo que me gusta ver.
 
 lang["#MISSION_HEISENBERG_UNDESIREABLES"] = "Indeseables"
 lang["#MISSION_HEISENBERG_UNDESIREABLES_DESC"] = "Los lugareños están causando muchos problemas para nuestro personal. Necesito que te deshagas de ellos."
-lang["#MISSION_HEISENBERG_UNDESIREABLES_HINT"] = "Mata a 20 Bandidos Pico de Hielo en el Paso de Montaña."
+lang["#MISSION_HEISENBERG_UNDESIREABLES_HINT"] = "Mata a 20 Bandidos Icepick en el Paso de Montaña."
 lang["#MISSION_HEISENBERG_UNDESIREABLES_COMPLETE"] = "Ahora nuestros hombres pueden moverse libremente."
 
 lang["#MISSION_HEISENBERG_WEARETHEDANGER"] = "Nosotros Somos el Peligro"
 lang["#MISSION_HEISENBERG_WEARETHEDANGER_DESC"] = "Los Contrabandistas, nuestro mayor competidor, están empezando a robarnos clientes. Quiero que te interpongas en su camino."
-lang["#MISSION_HEISENBERG_WEARETHEDANGER_HINT"] = "Mata a 20 Contrabandistas en el Estuario Muerto."
+lang["#MISSION_HEISENBERG_WEARETHEDANGER_HINT"] = "Mata a 20 Contrabandistas en el Estatuario Muerto."
 lang["#MISSION_HEISENBERG_WEARETHEDANGER_COMPLETE"] = "No estábamos en peligro, nosotros somos el peligro."
 
 lang["#MISSION_HEISENBERG_FINISHEDPRODUCT"] = "El Producto Terminado"
 lang["#MISSION_HEISENBERG_FINISHEDPRODUCT_DESC"] = "Necesitamos abastecernos de drogas. Creo que estás listo para empezar a fabricarlas tú mismo. Esto es lo que necesito."
-lang["#MISSION_HEISENBERG_FINISHEDPRODUCT_HINT"] = "Entrega 2 Buffout, 2 Psycho y 2 Mentats."
+lang["#MISSION_HEISENBERG_FINISHEDPRODUCT_HINT"] = "Entrega 2 Musculeína, 2 Psico y 2 Mentats."
 lang["#MISSION_HEISENBERG_FINISHEDPRODUCT_COMPLETE"] = "Gracias, me encargaré de distribuir esto."
 
 lang["#MISSION_HEISENBERG_BIGDEADDROP"] = "El Gran Punto Muerto"
@@ -58,8 +58,8 @@ lang["#MISSION_HEISENBERG_SUBSTANCEABUSE_COMPLETE"] = "Eso es lo que me gusta ve
 
 lang["#MISSION_HEISENBERG_TIGHTTIGHT"] = "Subidón de Adrenalina"
 lang["#MISSION_HEISENBERG_TIGHTTIGHT_DESC"] = "Necesito ver algo de esa mierda de Psycho que estáis produciendo."
-lang["#MISSION_HEISENBERG_TIGHTTIGHT_HINT"] = "Entrega 5 Psycho"
-lang["#MISSION_HEISENBERG_TIGHTTIGHT_COMPLETE"] = "¡Tenso, tenso, tenso! ¡Sííí!"
+lang["#MISSION_HEISENBERG_TIGHTTIGHT_HINT"] = "Entrega 5 Psico"
+lang["#MISSION_HEISENBERG_TIGHTTIGHT_COMPLETE"] = "¡Eso, Eso, Eso! ¡Sííí!"
 
 -- Misiones diarias
 
@@ -70,7 +70,7 @@ lang["#MISSION_HEISENBERG_UNFRIENDLYCOMPETITION_COMPLETE"] = "Estamos un paso m�
 
 lang["#MISSION_HEISENBERG_TINOPENER"] = "Abrelatas"
 lang["#MISSION_HEISENBERG_TINOPENER_DESC"] = "Esa gente que se hace llamar la Hermandad del Acero está haciendo que mover nuestro producto sea una pesadilla. Ve a reducirlos un poco."
-lang["#MISSION_HEISENBERG_TINOPENER_HINT"] = "Mata a 10 PNJ de la Hermandad en el Paso de Montaña."
+lang["#MISSION_HEISENBERG_TINOPENER_HINT"] = "Mata a 10 miembros de la Hermandad en el Paso de Montaña."
 lang["#MISSION_HEISENBERG_TINOPENER_COMPLETE"] = "No es tan bueno como los frijoles cocidos, pero aún así se siente bien."
 
 -- Misiones semanales
