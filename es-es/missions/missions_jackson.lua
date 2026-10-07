@@ -90,7 +90,7 @@ lang["#MISSION_JACKSON_ROCKBITERS_INPRODUCTION_COMPLETE"] = "Espera, ¿encontras
 
 lang["#MISSION_JACKSON_ROCKBITERS_WIPEOUT"] = "Rockbiters: Aniquilación"
 lang["#MISSION_JACKSON_ROCKBITERS_WIPEOUT_DESC"] = "¡Santo cielo, esa es su base principal! Estos imbéciles, los mismos que nos hicieron pagar por esta tierra al principio. ¿Sabes qué? Vamos a vengarnos. No solo es por nosotros, sino para establecer un camino más seguro en este valle."
-lang["#MISSION_JACKSON_ROCKBITERS_WIPEOUT_HINT"] = "Elimina cualquier tipo de Muerde Rocas en Yolla Bolly. Los Muerde Rocas se pueden encontrar en los niveles superiores de las minas. Están fuertemente armados y se recomienda traer un grupo de amigos para ayudar a combatirlos."
+lang["#MISSION_JACKSON_ROCKBITERS_WIPEOUT_HINT"] = "Elimina cualquier tipo de Rockbiter en Yolla Bolly. Los Rockbiter se pueden encontrar en los niveles superiores de las minas. Están fuertemente armados y se recomienda traer un grupo de amigos para ayudar a combatirlos."
 lang["#MISSION_JACKSON_ROCKBITERS_WIPEOUT_COMPLETE"] = "Maldito buen trabajo. Te debo una, lo que sea que necesites."
 
 RELOADSCHEMA = true
