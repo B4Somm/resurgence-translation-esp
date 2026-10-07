@@ -950,6 +950,7 @@ lang["#MISSIONBOARD_GIVER_FALLBACK"] = "Contratistas locales"
 lang["#MISSION_ACCEPT"] = "Aceptar misión"
 lang["#MISSION_ACCEPT_ONHOSTILE"] = "ACEPTANDO MISIÓN DE UNA FACCIÓN HOSTIL!\n\nCompletar esta misión te hará neutral con esta facción y no te atacaran a primera vista\n\nATACAR CONTARA COMO CRIMEN!"
 lang["#MISSION_TURNIN"] = "Entregar"
+lang["#MISSION_TURNIN_MISSION"] = "Entregar: $missionName"
 lang["#MISSION_COMPLETE"] = "Completado."
 lang["#MISSION_KILLS"] = "Muertos"
 lang["#MISSION_SELECTREWARD"] = "Has completado la misión. Selecciona una recompensa."
@@ -1267,6 +1268,7 @@ lang["#SETTING_PVP_PROTECTION_CHARGED"] = "No puedes recibir o causar daño porq
 lang["#SETTING_PVP_ATTACKER_INFACTION"] = "No puedes causar o recibir daño de este individuo, porque estan protegidos por tu facción, $faction."
 lang["#SETTING_PVP_FACTION_PROTECTION"] = "Tu puedes dañar a miembros de tu facción!"
 lang["#SETTING_PVP_FACTION_PROTECTED_BY"] = "Protegido por $factions."
+lang["#PVP_APPLYITEMFAIL_PVPSTATE"] = "No puedes aplicar este objeto a tu objetivo porque su estado de JcJ no es igual al tuyo."
 
 
 lang["#ITEM_FAKE"] = "Falso"
