@@ -1,6 +1,5 @@
 local lang = RSRG.Languages["es-es"]
 
-
 lang["#INTRO_1"] = "La Guerra. La Guerra nunca cambia."
 lang["#INTRO_2"] = "Después de décadas de conflicto global por los últimos recursos restantes de la tierra, la guerra traería destrucción."
 lang["#INTRO_3"] = "En el año 2077, el antiguo mundo murió, bautizado en el infernal fuego atómico de la Guerra Nuclear."
