@@ -48,4 +48,15 @@ lang["#MISSION_SHADYDEALER_SPECIALEDUCATION2_DESC"] = "¿Aún no estás contento
 
 lang["#MISSION_SHADYDEALER_SPECIALEDUCATION3"] = "Educación S.P.E.C.I.A.L. 3" -- 3 en adelante usarán la misma descripción que la 2
 
+-- I want you to know I have sourced all the text from the feature request on discord, i wonder if anyone will notice.
+lang["#MISSION_SHADYDEALER_PINK1"] = "NECESITAMOS ROSA"
+lang["#MISSION_SHADYDEALER_PINK1_DESC"] = "Necesito pintura rosa. Si no es rosa no la quiero. ¿No hay rosa? Rosa. Me encanta el rosa por favor POR FAVOR. NECESITO EL ROSA."
+lang["#MISSION_SHADYDEALER_PINK1_HINT"] = "Entrega 20 Bombas Cereza..."
+lang["#MISSION_SHADYDEALER_PINK1_COMPLETE"] = "¿Cómo pude aguantar tanto sin rosa...?"
+
+lang["#MISSION_SHADYDEALER_PINK2"] = "Recordatorio diario, ROSA"
+lang["#MISSION_SHADYDEALER_PINK2_DESC"] = "ROSA. Rosa pronto..."
+lang["#MISSION_SHADYDEALER_PINK2_HINT"] = "Entrega 5 Bombas Cereza..."
+lang["#MISSION_SHADYDEALER_PINK2_COMPLETE"] = "Un nuevo día. ¡Un nuevo ROSA!"
+
 RELOADSCHEMA = true
