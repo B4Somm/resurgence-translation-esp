@@ -74,7 +74,17 @@ lang["#MISSION_YOLLA_GREENEYES_DESC"] = "Contrato del Maestro de Herramientas He
 lang["#MISSION_YOLLA_GREENEYES_HINT"] = "Mata a un Ranger del Desierto. Son poderosos, así que acércate con precaución."
 lang["#MISSION_YOLLA_GREENEYES_COMPLETE"] = "Contrato completado. Regresa en unas horas para otra recompensa."
 
-lang["#MISSION_YOLLA_POWERTHECELL"] = "Asegurando que las Luces se Mantengan Encendidas"
+lang["#MISSION_YOLLA_SNAKECHARMER"] = "Encantador de Serpientes" -- No se repite
+lang["#MISSION_YOLLA_SNAKECHARMER_DESC"] = "Contrato abierto. Los chicos han empezado una porra, cualquiera puede participar. El primero en matar la cantidad indicada de Rangers del Desierto usando nuestros confiables Barrenderos se llevará todo el bote."
+lang["#MISSION_YOLLA_SNAKECHARMER_HINT"] = "Mata a un montón de Rangers del Desierto usando una escopeta Barrendero. Estos tipos no son una broma, manténte alerta."
+lang["#MISSION_YOLLA_SNAKECHARMER_COMPLETE"] = "Contrato completado. Aquí está tu premio, asesino. Puede que abra un nuevo bote más tarde."
+
+lang["#MISSION_YOLLA_BLOODYREAPER"] = "Segador Sangriento"
+lang["#MISSION_YOLLA_BLOODYREAPER_DESC"] = "Contrato de Metaller. Una simple exterminación de la población local de rangers. Matar a uno de cada tipo debería bastar. Regresa cuando esté hecho."
+lang["#MISSION_YOLLA_BLOODYREAPER_HINT"] = "Mata a uno de cada tipo de Ranger del Desierto."
+lang["#MISSION_YOLLA_BLOODYREAPER_COMPLETE"] = "Contrato completado. Buen trabajo. Puede que tenga otro contrato abierto pronto."
+
+lang["#MISSION_YOLLA_POWERTHECELL"] = "Manteniendo las luces encendidas"
 lang["#MISSION_YOLLA_POWERTHECELL_DESC"] = "Contrato de los Maestros de Herramientas. Necesitan algo de material nuclear del área del silo y algunas células de micro fusión para mantenerlo en funcionamiento. Haz tu parte."
 lang["#MISSION_YOLLA_POWERTHECELL_HINT"] = "Consigue Material Nuclear y Células de Microfusión. Puedes obtener Material Nuclear del Silo, y Células de Microfusión de varios vendedores, protectrones o armarios de armas de energía."
 lang["#MISSION_YOLLA_POWERTHECELL_COMPLETE"] = "Contrato completado. Regresa en unas horas para otra recompensa."
