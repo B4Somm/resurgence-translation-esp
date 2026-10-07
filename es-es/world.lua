@@ -180,14 +180,36 @@ lang["#STOVE_NAME"] = "Estufa"
 lang["#RELOADINGBENCH_NAME"] = "Mesa de recarga"
 lang["#WEAPONBENCH_NAME"] = "Banco de armero"
 lang["#ARMORBENCH_NAME"] = "Mesa de herrería"
-lang["#CHEMICALSTATION_NAME"] = "Juego de Química"
 
 lang["#POWERARMORFAB_NAME"] = "Fabricadora de la Hermandad"
 
 
 -- Terminal
 lang["#TERMINAL_TITLE"] = "ROBCO INDUSTRIES UNIFIED OPERATING SYSTEM\nCOPYRIGHT 2075-2077 ROBCO INDUSTRIES"
-lang["#TERMINAL_DEFAULT"] = "Mi computadora"
+lang["#TERMINAL_DEFAULT"] = "Terminal"
+lang["#TERMINAL_DOOR_ACTIVATE"] = "Activar"
+lang["#TERMINAL_NO_DATA"] = "NO SE ENCUENTRAN DATOS"
+
+lang["#HACK_HEADER"] = "DESAFIO DE SEGURIDAD: %s"
+lang["#HACK_OBSERVE"] = "OBSERVA LA SECUENCIA..."
+lang["#HACK_INPUT"] = "INTRODUCE LA SECUENCIA  [%d / %d]"
+lang["#HACK_WRONG"] = "SECUENCIA INCORRECTA  [%d ATTEMPTS LEFT]"
+lang["#HACK_GRANTED"] = "ACCESO GARANTIZADO"
+lang["#HACK_DENIED"] = "ACCESO NEGADO — TERMINAL BLOQUEADO"
+lang["#HACK_SKILL_TITLE"] = "HABILIDAD DE CIENCIA INSUFICIENTE"
+lang["#HACK_SKILL_BODY"] = "Requerido: %d     Actual: %d"
+lang["#HACK_LOCKED_BODY"] = "Este terminal te ha bloqueado.\n Otro operador aun puede intentar acceder."
+lang["#HACK_HUD_UNLOCKED"] = "Desbloqueado"
+lang["#HACK_HUD_LOCKED"] = "Bloqueado"
+lang["#HACK_LOCKOUT_TITLE"] = "ACCESO A TERMINAL BLOQUEADO"
+lang["#HACK_LOCKOUT_BODY"] = "Este terminal te ha bloqueado de su acceso.\nLa secuencia se reiniciara en: %s"
+lang["#HACK_LOCKOUT_BODY_UNK"] = "Este terminal te ha bloqueado de su acceso.\nEspera a que se reinicie la secuencia."
+
+
+-- Door States
+lang["#DOOR_OPEN"]      = "Abrir"
+lang["#DOOR_CLOSE"]     = "Cerrar"
+lang["#DOOR_LOCKED"]    = "Cerrado"
 
 
 
