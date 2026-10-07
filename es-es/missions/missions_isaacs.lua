@@ -9,7 +9,7 @@ local lang = RSRG.Languages["es-es"]
 
 -- Repartidor de misiones
 lang["#MISSION_GIVER_ISAAC"] = "Isaac"
-lang["#MISSION_GIVER_ISAAC_SUBTITLE"] = "Caravana Carmesí"
+lang["#MISSION_GIVER_ISAAC_SUBTITLE"] = "Caravana Crimson"
 lang["#MISSION_GIVER_ISAAC_GREET_NEW"] = "Oye, bienvenido al pueblo, desconocido. Espero que vengas con buenas intenciones. Hablando de buenas intenciones, necesitamos ayuda con algo de trabajo, si estás dispuesto a echar una mano. No literalmente. Pero necesitamos algunos materiales para el comercio y el transporte, si estás dispuesto a ayudar con eso. Te daré algo de dinero si quieres ayudar.\n\n\nAquí tienes una lista de cosas con las que necesito ayuda."
 lang["#MISSION_GIVER_ISAAC_GREET_N100"] = "Oye, oye, oye, cuidado con tu próximo paso, ¿vale? No me gustas, pero eso no te hace absolutamente inútil para mí. Puede que todavía necesite ayuda con solicitudes de artículos, y es probable que seas la única persona que pueda hacerlo en este pueblo. Así que, si quieres algo que hacer, te asignaré algunos pedidos activos.\n\n\nAquí tienes una lista de pedidos disponibles."
 lang["#MISSION_GIVER_ISAAC_GREET_0"] = "Hola, $playername, ¿verdad? Bueno, puede que tenga más pedidos para que los realices si buscas algo que hacer por aquí.\n\n\nAquí tienes una lista de pedidos disponibles."
@@ -19,7 +19,7 @@ lang["#MISSION_GIVER_ISAAC_GREET_FINISHED"] = "Oye, $playername, ¿ha pasado alg
 -- Misiones
 lang["#MISSION_ISAAC_PERSONALREQUEST"] = "Madera Perdida"
 lang["#MISSION_ISAAC_PERSONALREQUEST_DESC"] = "Ya que estás interesado en algo de trabajo, nos falta un lote de madera que se supone debemos entregar a alguien más tarde hoy. No estoy seguro de dónde pudo haber ido a parar, podría haber sido robada, pero la necesitamos para cumplir con su pedido. Necesito que vayas y consigas alrededor de media docena de restos de madera para nosotros. Será suficiente para cubrir lo que querían."
-lang["#MISSION_ISAAC_PERSONALREQUEST_HINT"] = "Consigue Madera de Desecho. Se puede saquear, recuperar o recolectar de otros paquetes de madera o árboles rotos. También puedes comprarla a algunos comerciantes."
+lang["#MISSION_ISAAC_PERSONALREQUEST_HINT"] = "Consigue Restos de Madera. Se puede saquear, recuperar o recolectar de otros paquetes de madera o árboles rotos. También puedes comprarla a algunos comerciantes."
 lang["#MISSION_ISAAC_PERSONALREQUEST_COMPLETE"] = "Genial, gracias amigo. Toma, por tus problemas."
 
 lang["#MISSION_ISAAC_LEATHERYORDER"] = "Solicitud de Cuero"
@@ -34,7 +34,7 @@ lang["#MISSION_ISAAC_MEDICINALS_COMPLETE"] = "Yo me encargo de mi parte, aquí t
 
 lang["#MISSION_ISAAC_METALBULK"] = "Metal a Granel"
 lang["#MISSION_ISAAC_METALBULK_DESC"] = "Obviamente estás aquí para ayudar. Acabo de recibir un pedido de un montón de Metal de Desecho, el tipo debe estar construyendo algo. Bueno, haz tu parte."
-lang["#MISSION_ISAAC_METALBULK_HINT"] = "Consigue Metal de Desecho. Se puede encontrar fácilmente recuperando vehículos y saqueando. También se puede obtener descomponiendo artículos relacionados con el metal."
+lang["#MISSION_ISAAC_METALBULK_HINT"] = "Consigue Chatarra Metalica. Se puede encontrar fácilmente recuperando vehículos y saqueando. También se puede obtener descomponiendo artículos relacionados con el metal."
 lang["#MISSION_ISAAC_METALBULK_COMPLETE"] = "Otro pedido cumplido, aquí está tu parte."
 
 -- N2
@@ -54,7 +54,7 @@ lang["#MISSION_ISAAC_LOADOUT_DESC"] = "Oye, ¿crees que estás listo para este? 
 lang["#MISSION_ISAAC_LOADOUT_HINT"] = "Consigue una Pistola 9mm, Munición 9mm y una Gabardina de Mercenario. Las Pistolas 9mm y la munición se pueden encontrar raramente saqueando y comprando a comerciantes. Las Gabardinas de Mercenario las venden comúnmente los comerciantes."
 lang["#MISSION_ISAAC_LOADOUT_COMPLETE"] = "Vaya, ¿realmente conseguiste todo eso? Aquí está tu recompensa."
 
-lang["#MISSION_ISAAC_COUPLESMOKES"] = "Un Par de Pitillos"
+lang["#MISSION_ISAAC_COUPLESMOKES"] = "Un Par de Cigarros"
 lang["#MISSION_ISAAC_COUPLESMOKES_DESC"] = "Un hombre vino hace unos minutos, quería un pedido de un par de pitillos. En realidad solo quería algunos paquetes de cigarrillos. Me parece bastante fácil."
 lang["#MISSION_ISAAC_COUPLESMOKES_HINT"] = "Consigue Paquetes de Cigarrillos. Se pueden encontrar saqueando."
 lang["#MISSION_ISAAC_COUPLESMOKES_COMPLETE"] = "El tipo probablemente fuma bastante. Toma."
@@ -85,5 +85,20 @@ lang["#MISSION_ISAAC_SPECIALKINDOFHIDE"] = "Un Tipo Especial de Piel"
 lang["#MISSION_ISAAC_SPECIALKINDOFHIDE_DESC"] = "Un viejo amigo pasó por aquí no hace mucho, y me preguntó si podía ayudarlo con un proyecto, y es en realidad la última parte de algo que necesita para lo que sea que está haciendo. Bueno, para explicarlo rápidamente, quiere piel de Sanguinario. Puedo entender perfectamente si no quieres ir a buscar esto, pero puedo decirte que la recompensa definitivamente valdrá la pena. Eso es, si no mueres. También es posible que puedas encontrar a alguien que esté dispuesto a dártela."
 lang["#MISSION_ISAAC_SPECIALKINDOFHIDE_HINT"] = "Consigue Piel de Sanguinario. Puedes obtenerla si tienes la habilidad de despellejar y logras matar a un Sanguinario."
 lang["#MISSION_ISAAC_SPECIALKINDOFHIDE_COMPLETE"] = "Vaya, ¿realmente mataste a un sanguinario por esto? Quiero decir, podrías haberlo intercambiado."
+
+lang["#MISSION_ISAAC_CRIMSONCARAVANINVESTNCR"] = "Inversión a Sucursal: Dolares de la RNC"
+lang["#MISSION_ISAAC_CRIMSONCARAVANINVESTNCR_DESC"] = "$playername, Necesitamos capital para apoyar a nuestra sucursal local, En Dolares. Crees poder ayudarnos?"
+lang["#MISSION_ISAAC_CRIMSONCARAVANINVESTNCR_HINT"] = "Obten 1500 Dolares de la RNC y regresa con Isaac."
+lang["#MISSION_ISAAC_CRIMSONCARAVANINVESTNCR_COMPLETE"] = "Thank you $playername, Crimson Caravan won't forget your help."
+
+lang["#MISSION_ISAAC_CRIMSONCARAVANINVESTCAPS"] = "Inversión a Sucursal: Chapas"
+lang["#MISSION_ISAAC_CRIMSONCARAVANINVESTCAPS_DESC"] = "$playername, Necesitamos capital para apoyar a nuestra sucursal local, En Chapas. Crees poder ayudarnos?"
+lang["#MISSION_ISAAC_CRIMSONCARAVANINVESTCAPS_HINT"] = "Obten 2000 Chapas y regresa con Isaac."
+lang["#MISSION_ISAAC_CRIMSONCARAVANINVESTCAPS_COMPLETE"] = "Thank you $playername, Crimson Caravan won't forget your help."
+
+lang["#MISSION_ISAAC_CRIMSONCARAVANGRANDOPENING"] = "Gran inauguración, Sucursal de Salt Wells!"
+lang["#MISSION_ISAAC_CRIMSONCARAVANGRANDOPENING_DESC"] = "Con toda tu ayuda, $playername, Los jefes estan seguros de abrir una sucursal, en esta región. Solo necesitamos un poco de capital mas."
+lang["#MISSION_ISAAC_CRIMSONCARAVANGRANDOPENING_HINT"] = "Obten 15000 dolares de la RNC y 18000 chapas y regresa con Isaac."
+lang["#MISSION_ISAAC_CRIMSONCARAVANGRANDOPENING_COMPLETE"] = "Toma tu llave, $playername, la sucursal esta abierta. Disfruta de nuestra selección!"
 
 RELOADSCHEMA = true
