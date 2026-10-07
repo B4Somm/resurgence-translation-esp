@@ -32,7 +32,7 @@ lang["#MISSION_JACKSON_LOSTBAG"] = "Bolsa Perdida"
 lang["#MISSION_JACKSON_LOSTBAG_DESC"] = "Es posible que puedas poner en marcha toda esa fábrica por tu cuenta. Parece que produce lingotes de latón. ¿Quizás podrías fabricar balas? En fin, tema para otro día. Recientemente, enviamos un grupo de exploración de dos hombres a buscar una vieja cabaña de pesca. Resulta que había varios necrófagos todavía viviendo allí, y fueron atacados. Afortunadamente, están ilesos, pero accidentalmente dejaron caer y abandonaron una bolsa grande que contenía muchos suministros útiles. Si pudieras recuperarla, consideraré darte una pequeña parte de esos suministros."
 lang["#MISSION_JACKSON_LOSTBAG_HINT"] = "Encuentra la Bolsa de Suministros. Jackson dijo que un grupo de exploración la dejó accidentalmente en la cabaña de pesca del valle, la que está bajo el puente gigante."
 lang["#MISSION_JACKSON_LOSTBAG_COMPLETE"] = "Gracias por recuperar esto. Aquí tienes algunas cosas."
-lang["#MISSION_JACKSON_LOSTBAG_ITEMNAME"] = "Bolsa de Suministros"
+lang["#MISSION_JACKSON_LOSTBAG_ITEMNAME"] = "La Bolsa de Suministros"
 
 -- N2
 
@@ -67,7 +67,7 @@ lang["#MISSION_JACKSON_THEBUNKER_SUMMARIZING"] = "El Búnker: Resumen"
 lang["#MISSION_JACKSON_THEBUNKER_SUMMARIZING_DESC"] = "Bueno, saqueamos todo el lugar. Un montón de materiales militares, armas, explosivos y un maldito misil nuclear en uno de los silos. Ya revisamos los controles, y está completamente desactivado. Nadie podría activarlo, y creemos que debería mantenerse así. Tampoco debería saberlo la gente, porque todavía se puede arreglar. En fin, podemos salir fácilmente de la pobreza ahora, todo gracias a ti. Pero, todavía hay mucho trabajo por hacer por aquí. Hablando de eso, uno de nuestros ingenieros dijo que el misil debería contener una placa de circuito de grado militar, que realmente quiere para 'experimentar', y posiblemente hacer algún uso para nosotros. El problema es que no podemos obtenerla porque está demasiado irradiada allí abajo. Nos derretiríamos en segundos, y no tenemos trajes antirradiación. Te pido que bajes y la recuperes. ¿Cómo vas a bajar allí sin morir por la radiación? Eso lo descubres tú."
 lang["#MISSION_JACKSON_THEBUNKER_SUMMARIZING_HINT"] = "Encuentra la placa de circuito de grado militar. Jackson dijo que se podía encontrar en el misil dentro del silo, que está lleno de radiación. Es posible que necesites encontrar alguna forma de obtener la placa sin sufrir demasiado daño por radiación."
 lang["#MISSION_JACKSON_THEBUNKER_SUMMARIZING_COMPLETE"] = "Genial. Aún me pregunto, ¿qué hacía esa placa de circuito en el misil?"
-lang["#MISSION_JACKSON_THEBUNKER_SUMMARIZING_ITEMNAME"] = "Placa de Circuito"
+lang["#MISSION_JACKSON_THEBUNKER_SUMMARIZING_ITEMNAME"] = "LaPlaca de Circuito"
 
 -- N4
 
@@ -83,12 +83,12 @@ lang["#MISSION_JACKSON_STRANGEBUILDING_COMPLETE"] = "Hmm. En serio, un lugar ext
 
 -- N5
 
-lang["#MISSION_JACKSON_ROCKBITERS_INPRODUCTION"] = "Muerde Rocas: En Producción"
+lang["#MISSION_JACKSON_ROCKBITERS_INPRODUCTION"] = "Rockbiters: En Producción"
 lang["#MISSION_JACKSON_ROCKBITERS_INPRODUCTION_DESC"] = "Oye, nos acaban de decir que hay un enorme campamento minero al otro lado del valle, relativamente cerca de la mansión. Sé que esto es una petición rápida ahora mismo, pero estoy ocupado con otras cosas, y necesito que vayas a investigarlo. Te daré algo de pago cuando regreses."
 lang["#MISSION_JACKSON_ROCKBITERS_INPRODUCTION_HINT"] = "Explora las Cuevas, el Pueblo Minero y los Edificios Elevados. Las minas se pueden encontrar cerca de la mansión en el lado opuesto de Waxton, en un túnel profundo."
 lang["#MISSION_JACKSON_ROCKBITERS_INPRODUCTION_COMPLETE"] = "Espera, ¿encontraste el escondite de los bandidos?"
 
-lang["#MISSION_JACKSON_ROCKBITERS_WIPEOUT"] = "Muerde Rocas: Aniquilación"
+lang["#MISSION_JACKSON_ROCKBITERS_WIPEOUT"] = "Rockbiters: Aniquilación"
 lang["#MISSION_JACKSON_ROCKBITERS_WIPEOUT_DESC"] = "¡Santo cielo, esa es su base principal! Estos imbéciles, los mismos que nos hicieron pagar por esta tierra al principio. ¿Sabes qué? Vamos a vengarnos. No solo es por nosotros, sino para establecer un camino más seguro en este valle."
 lang["#MISSION_JACKSON_ROCKBITERS_WIPEOUT_HINT"] = "Elimina cualquier tipo de Muerde Rocas en Yolla Bolly. Los Muerde Rocas se pueden encontrar en los niveles superiores de las minas. Están fuertemente armados y se recomienda traer un grupo de amigos para ayudar a combatirlos."
 lang["#MISSION_JACKSON_ROCKBITERS_WIPEOUT_COMPLETE"] = "Maldito buen trabajo. Te debo una, lo que sea que necesites."
