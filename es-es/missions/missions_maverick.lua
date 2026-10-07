@@ -52,7 +52,7 @@ lang["#MISSION_MAVERICK_DEADESTDELIVERY"] = "Entrega del Estuario Muerto"
 lang["#MISSION_MAVERICK_DEADESTDELIVERY_DESC"] = "Oye, necesito que recojas algunas cosas. Esta es de Melvin en el Estuario Muerto. El tipo ha estado trabajando allí y tiene un barril lleno de Alga Atrayente que podemos usar para suministros médicos aquí. Ve a buscarlo, y recibirás una parte.\n\nMelvin debería estar en la pequeña Flotilla en la que invertimos demasiadas tapas, pero supongo que valió la pena."
 lang["#MISSION_MAVERICK_DEADESTDELIVERY_HINT"] = "Recupera el barril de Alga Atrayente de Melvin en el Estuario Muerto, en la Flotilla Provisional."
 lang["#MISSION_MAVERICK_DEADESTDELIVERY_COMPLETE"] = "No comiste nada, ¿verdad? Claro que no, aquí está tu parte, artillero."
-lang["#MISSION_MAVERICK_DEADESTDELIVERY_ITEMNAME"] = "Barril de Alga Atrayente"
+lang["#MISSION_MAVERICK_DEADESTDELIVERY_ITEMNAME"] = "El Barril de Alga Atrayente"
 
 lang["#MISSION_MAVERICK_NEEDEDREPAIRS"] = "Algunas Reparaciones Necesarias"
 lang["#MISSION_MAVERICK_NEEDEDREPAIRS_DESC"] = "Así que, un poco de tiempo de inactividad después de las matanzas, ¿eh? Bueno, necesitamos mantener algunas de las máquinas en funcionamiento mientras acampamos aquí, así que necesitamos algunos módulos sensores y conductores. Además, necesitamos una puta tonelada de metal de desecho para las paredas. Tiene un montón de agujeros por los disparos de los sombríos y las extrañas patrullas verdes. Además, necesitamos un poco más de protección de las autoridades locales."
@@ -62,6 +62,6 @@ lang["#MISSION_MAVERICK_NEEDEDREPAIRS_COMPLETE"] = "Un montón de basura. Aquí 
 lang["#MISSION_MAVERICK_MUTANTPATROLS"] = "Demasiados Mutantes"
 lang["#MISSION_MAVERICK_MUTANTPATROLS_DESC"] = "¡Un maldito verde nos disparó cuando intentamos acercarnos al departamento de policía! Se apoderaron de las trincheras e hicieron una guerra de trincheras en este maldito lugar, ¡¿de dónde demonios salieron?!\n\nArtillero, recorre la ciudad y reduce sus números. Necesito intentar averiguar de dónde vienen, ¡malditas hordas de ellos apareciendo de la nada! Escucha, 20 tapas por cabeza, y obtendrás algunas cosas buenas para relajarte después, ¿de acuerdo?"
 lang["#MISSION_MAVERICK_MUTANTPATROLS_HINT"] = "Mata a 15 Supermutantes en el mapa de Salem."
-lang["#MISSION_MAVERICK_MUTANTPATROLS_COMPLETE"] = "Toma, algunas drogas y tapas. No juzgo, solo no lo hagas aquí. Asusta a los refugiados."
+lang["#MISSION_MAVERICK_MUTANTPATROLS_COMPLETE"] = "Toma, algunas drogas y tapas. No juzgo, solo no las uses aquí. Asusta a los refugiados."
 
 RELOADSCHEMA = true
