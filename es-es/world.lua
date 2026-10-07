@@ -54,7 +54,7 @@ lang["#REGION_YOLLABOLLY_TUNNELTRAILER"] = "Barricada del Túnel"
 lang["#REGION_YOLLABOLLY_TOWN"] = "Pueblo de Supervivientes"
 lang["#REGION_YOLLABOLLY_DESC"] = "La Gran Cordillera Yolla Bolly esta ubicada hacia el norte. La RNC tiene poca presencia aquí, pero reside aquí una comunidad de supervivientes quienes llaman las cordilleras su hogar."
 
-lang["#REGION_DEADESTUARY"] = "Estatuario muerto"
+lang["#REGION_DEADESTUARY"] = "Estuario muerto"
 lang["#REGION_DEADESTUARY_NORTH"] = "Bote del norte"
 lang["#REGION_DEADESTUARY_SW"] = "Campamento del Contrabandista"
 lang["#REGION_DEADESTUARY_NW"] = "Cabaña al Oeste"
