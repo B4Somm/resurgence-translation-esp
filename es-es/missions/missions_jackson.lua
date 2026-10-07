@@ -67,7 +67,7 @@ lang["#MISSION_JACKSON_THEBUNKER_SUMMARIZING"] = "El Búnker: Resumen"
 lang["#MISSION_JACKSON_THEBUNKER_SUMMARIZING_DESC"] = "Bueno, saqueamos todo el lugar. Un montón de materiales militares, armas, explosivos y un maldito misil nuclear en uno de los silos. Ya revisamos los controles, y está completamente desactivado. Nadie podría activarlo, y creemos que debería mantenerse así. Tampoco debería saberlo la gente, porque todavía se puede arreglar. En fin, podemos salir fácilmente de la pobreza ahora, todo gracias a ti. Pero, todavía hay mucho trabajo por hacer por aquí. Hablando de eso, uno de nuestros ingenieros dijo que el misil debería contener una placa de circuito de grado militar, que realmente quiere para 'experimentar', y posiblemente hacer algún uso para nosotros. El problema es que no podemos obtenerla porque está demasiado irradiada allí abajo. Nos derretiríamos en segundos, y no tenemos trajes antirradiación. Te pido que bajes y la recuperes. ¿Cómo vas a bajar allí sin morir por la radiación? Eso lo descubres tú."
 lang["#MISSION_JACKSON_THEBUNKER_SUMMARIZING_HINT"] = "Encuentra la placa de circuito de grado militar. Jackson dijo que se podía encontrar en el misil dentro del silo, que está lleno de radiación. Es posible que necesites encontrar alguna forma de obtener la placa sin sufrir demasiado daño por radiación."
 lang["#MISSION_JACKSON_THEBUNKER_SUMMARIZING_COMPLETE"] = "Genial. Aún me pregunto, ¿qué hacía esa placa de circuito en el misil?"
-lang["#MISSION_JACKSON_THEBUNKER_SUMMARIZING_ITEMNAME"] = "LaPlaca de Circuito"
+lang["#MISSION_JACKSON_THEBUNKER_SUMMARIZING_ITEMNAME"] = "La Placa de Circuitos"
 
 -- N4
 
