@@ -34,7 +34,7 @@ lang["#MISSION_CROWMAN_SXS_DESC"] = "¡Tú, mocoso! Tengo un nuevo desafío para
 lang["#MISSION_CROWMAN_SXS_HINT"] = "Adquiere una Escopeta SxS (de cañones yuxtapuestos), mediante trueque, saqueo u otra cosa...\n\nLos cuervos se pueden encontrar volando alrededor del pueblo de Salt Wells y sus alrededores. ¡Asegúrate de 'apuntar delante del objetivo' antes de disparar!"
 lang["#MISSION_CROWMAN_SXS_COMPLETE"] = "¿Por fin terminaste? ¡Te tomó bastante tiempo!"
 
-lang["#MISSION_CROWMAN_870"] = "Miembro del Club de Trampas"
+lang["#MISSION_CROWMAN_870"] = "Miembro del Club de Tramperos"
 lang["#MISSION_CROWMAN_870_DESC"] = "¡Tú, mocoso! Tengo un nuevo desafío para ti. Esta vez, quiero que mates un cuervo usando una Escopeta de Bombeo, ¡Y NADA MÁS! ¡LO SABRÉ!"
 lang["#MISSION_CROWMAN_870_HINT"] = "Adquiere una Escopeta de Bombeo, mediante trueque, saqueo u otra cosa...\n\nLos cuervos se pueden encontrar volando alrededor del pueblo de Salt Wells y sus alrededores. ¡Asegúrate de 'apuntar delante del objetivo' antes de disparar!"
 lang["#MISSION_CROWMAN_870_COMPLETE"] = "¿Por fin terminaste? ¡Te tomó bastante tiempo!"
@@ -44,7 +44,7 @@ lang["#MISSION_CROWMAN_DARTGUN_DESC"] = "¡Tú, mocoso! Tengo un nuevo desafío 
 lang["#MISSION_CROWMAN_DARTGUN_HINT"] = "Adquiere una Pistola de Dardos, mediante trueque, fabricándola en un banco de trabajo u otra cosa...\n\nLos cuervos se pueden encontrar volando alrededor del pueblo de Salt Wells y sus alrededores. ¡Asegúrate de 'apuntar delante del objetivo' antes de disparar!"
 lang["#MISSION_CROWMAN_DARTGUN_COMPLETE"] = "¿Por fin terminaste? ¡Te tomó bastante tiempo!"
 
-lang["#MISSION_CROWMAN_44"] = "El Hombre CROWmagnum"
+lang["#MISSION_CROWMAN_44"] = "Cuervo y Magnum"
 lang["#MISSION_CROWMAN_44_DESC"] = "¡Tú, mocoso! Tengo un nuevo desafío para ti. Esta vez, quiero que mates un cuervo usando un Revólver .44 Magnum o una Carabina de Rastreador, ¡Y NADA MÁS! ¡LO SABRÉ!"
 lang["#MISSION_CROWMAN_44_HINT"] = "Adquiere un Revólver .44 Magnum o una Carabina de Rastreador, mediante trueque, saqueo u otra cosa...\n\nLos cuervos se pueden encontrar volando alrededor del pueblo de Salt Wells y sus alrededores. ¡Asegúrate de 'apuntar delante del objetivo' antes de disparar!"
 lang["#MISSION_CROWMAN_44_COMPLETE"] = "¿Por fin terminaste? ¡Te tomó bastante tiempo!"
@@ -55,7 +55,7 @@ lang["#MISSION_CROWMAN_LASER_DESC"] = "¡Tú, mocoso! Tengo un nuevo desafío pa
 lang["#MISSION_CROWMAN_LASER_HINT"] = "Adquiere cualquier variante de Pistola Láser o Rifle Láser, mediante trueque, saqueo u otra cosa...\n\nLos cuervos se pueden encontrar volando alrededor del pueblo de Salt Wells y sus alrededores. ¡Asegúrate de 'apuntar delante del objetivo' antes de disparar!"
 lang["#MISSION_CROWMAN_LASER_COMPLETE"] = "¿Por fin terminaste? ¡Te tomó bastante tiempo!"
 
-lang["#MISSION_CROWMAN_STREETSWEEPER"] = "Expulsado del Club de Trampas"
+lang["#MISSION_CROWMAN_STREETSWEEPER"] = "Expulsado del Club de Tramperos"
 lang["#MISSION_CROWMAN_STREETSWEEPER_DESC"] = "¡Tú, mocoso! Tengo un nuevo desafío para ti. Esta vez, quiero que mates un cuervo usando una de esas Escopetas Barrendero, ¡Y NADA MÁS! ¡LO SABRÉ!"
 lang["#MISSION_CROWMAN_STREETSWEEPER_HINT"] = "Adquiere un Barrendero, mediante trueque, saqueo u otra cosa...\n\nLos cuervos se pueden encontrar volando alrededor del pueblo de Salt Wells y sus alrededores. ¡Asegúrate de 'apuntar delante del objetivo' antes de disparar!"
 lang["#MISSION_CROWMAN_STREETSWEEPER_COMPLETE"] = "¿Por fin terminaste? ¡Te tomó bastante tiempo!"
@@ -80,7 +80,7 @@ lang["#MISSION_CROWMAN_COMBATSHOTGUN_DESC"] = "¡Tú, mocoso! Tengo un nuevo des
 lang["#MISSION_CROWMAN_COMBATSHOTGUN_HINT"] = "Adquiere una Escopeta de Combate, mediante trueque, saqueo u otra cosa...\n\nLos cuervos se pueden encontrar volando alrededor del pueblo de Salt Wells y sus alrededores. ¡Asegúrate de 'apuntar delante del objetivo' antes de disparar!"
 lang["#MISSION_CROWMAN_COMBATSHOTGUN_COMPLETE"] = "¿Por fin terminaste? ¡Te tomó bastante tiempo!"
 
-lang["#MISSION_CROWMAN_SOVIETRIFLE"] = "KalashniCAWWWv"
+lang["#MISSION_CROWMAN_SOVIETRIFLE"] = "Kalashnicuerov"
 lang["#MISSION_CROWMAN_SOVIETRIFLE_DESC"] = "¡Tú, mocoso! Tengo un nuevo desafío para ti. Esta vez, quiero que mates un cuervo usando uno de esos viejos rifles tipo Combloc calibre treinta, un Rifle Soviético. ¡Y NADA MÁS! ¡LO SABRÉ!"
 lang["#MISSION_CROWMAN_SOVIETRIFLE_HINT"] = "Adquiere un Rifle Soviético, mediante trueque, saqueo u otra cosa...\n\nLos cuervos se pueden encontrar volando alrededor del pueblo de Salt Wells y sus alrededores. ¡Asegúrate de 'apuntar delante del objetivo' antes de disparar!"
 lang["#MISSION_CROWMAN_SOVIETRIFLE_COMPLETE"] = "¿Por fin terminaste? ¡Te tomó bastante tiempo!"
@@ -117,7 +117,7 @@ lang["#MISSION_CROWMAN_X25_DESC"] = "¡Tú, mocoso! Apuesto a que te sientes muy
 lang["#MISSION_CROWMAN_X25_HINT"] = "Los cuervos se pueden encontrar volando alrededor del pueblo de Salt Wells y sus alrededores. ¡Asegúrate de 'apuntar delante del objetivo' antes de disparar!"
 lang["#MISSION_CROWMAN_X25_COMPLETE"] = "¿Por fin terminaste? Ya veremos. Esos cuervos son listos. ¡Pero no más que yo! ¡Conozco sus trucos!"
 
-lang["#MISSION_CROWMAN_X50"] = "ConCAWflicto Abierto"
+lang["#MISSION_CROWMAN_X50"] = "Cuerflicto Abierto"
 lang["#MISSION_CROWMAN_X50_DESC"] = "¡Tú, mocoso! Pensé que te dije que te encargaras del problema de los cuervos. ¿El que causaste en primer lugar? ¿Entonces por qué me desperté esta mañana solo para encontrar una bandada entera de cuervos, sentados en mi granero, mirándome con sus pequeños ojos de cuentas? ¡Están construyendo un ejército, NO, UNA FUERZA AÉREA! ¡Tienes que diezmarlos antes de que sea demasiado tarde!"
 lang["#MISSION_CROWMAN_X50_HINT"] = "Los cuervos se pueden encontrar volando alrededor del pueblo de Salt Wells y sus alrededores. ¡Asegúrate de 'apuntar delante del objetivo' antes de disparar!"
 lang["#MISSION_CROWMAN_X50_COMPLETE"] = "¿Terminaste? ¡Bien! La mayoría de la gente no habría necesitado tres intentos para hacerlo, pero la mayoría de la gente no es como tú."
