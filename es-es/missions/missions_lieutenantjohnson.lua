@@ -24,7 +24,7 @@ lang["#MISSION_LIEUTENANTJOHNSON_BRINGTHEMHOME"] = "Tráelos a Casa"
 lang["#MISSION_LIEUTENANTJOHNSON_BRINGTHEMHOME_DESC"] = "Esperábamos un vertibird con un pequeño escuadrón de investigadores para ayudar a nuestros esfuerzos, pero se perdió sobre el pantano. Necesito que vayas allí y averigües qué pasó. O al menos traigas de vuelta la caja negra."
 lang["#MISSION_LIEUTENANTJOHNSON_BRINGTHEMHOME_HINT"] = "Encuentra el Vertibird accidentado en el Estuario Muerto y recoge la caja negra."
 lang["#MISSION_LIEUTENANTJOHNSON_BRINGTHEMHOME_COMPLETE"] = "¿No sobrevivieron? Qué lástima. Informaré a la base de origen y enviaré otro grupo."
-lang["#MISSION_LIEUTENANTJOHNSON_BRINGTHEMHOME_ITEMNAME"] = "Caja Negra del Vertibird"
+lang["#MISSION_LIEUTENANTJOHNSON_BRINGTHEMHOME_ITEMNAME"] = "La Caja Negra del Vertibird"
 
 lang["#MISSION_LIEUTENANTJOHNSON_AIRSUPERIORITY"] = "Superioridad Aérea"
 lang["#MISSION_LIEUTENANTJOHNSON_AIRSUPERIORITY_DESC"] = "Hemos determinado la causa del accidente a partir de la caja negra que entregaste. Parece que un grupo que se hace llamar la Compañía Phoenix ha estado disparando a nuestras unidades aéreas. Necesito que encuentres dónde están ubicados y caces a sus miembros de alto rango."
@@ -34,7 +34,7 @@ lang["#MISSION_LIEUTENANTJOHNSON_AIRSUPERIORITY_COMPLETE"] = "Buen trabajo. Con 
 lang["#MISSION_LIEUTENANTJOHNSON_THOROUGHRESEARCH"] = "Investigación a Fondo"
 lang["#MISSION_LIEUTENANTJOHNSON_THOROUGHRESEARCH_DESC"] = "No hay tiempo para hablar, tenemos una misión urgente. Hemos recibido informes preocupantes sobre la desaparición de algunas holocintas del equipo de investigación. Por lo que podemos deducir, parece que se las han llevado a una instalación subterránea cercana. ¡Debemos entrar allí y recuperarlas!"
 lang["#MISSION_LIEUTENANTJOHNSON_THOROUGHRESEARCH_HINT"] = "Recupera la holocinta del búnker."
-lang["#MISSION_LIEUTENANTJOHNSON_THOROUGHRESEARCH_ITEMNAME"] = "Holocinta de Investigación del Enclave"
+lang["#MISSION_LIEUTENANTJOHNSON_THOROUGHRESEARCH_ITEMNAME"] = "La Holocinta de Investigación del Enclave"
 lang["#MISSION_LIEUTENANTJOHNSON_THOROUGHRESEARCH_COMPLETE"] = "¡Trabajo increíble! Eres un verdadero orgullo para este país. Ahora dame un momento para averiguar por qué demonios desaparecieron estas."
 
 -- Misiones repetibles, disponibles después de "Investigación a Fondo"
