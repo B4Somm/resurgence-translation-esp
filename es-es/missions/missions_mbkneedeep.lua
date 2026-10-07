@@ -26,10 +26,10 @@ lang["#MISSION_KNEEDEEP_NOSYMPATHY_HINT"] = "Elimina cinco Mercaderes de la Muer
 lang["#MISSION_KNEEDEEP_NOSYMPATHY_COMPLETE"] = "Buen trabajo. Estoy seguro de que el contratista estará feliz de tener un cierre después de lo que pasó. Aquí está tu recompensa, te la ganaste."
 
 lang["#MISSION_KNEEDEEP_CRUSTACEANBEATDOWN"] = "Paliza a los Crustáceos"
-lang["#MISSION_KNEEDEEP_CRUSTACEANBEATDOWN_DESC"] = "Ese trabajo lo publicó algún loco adicto a las drogas que salió del pantano. Lo que pidió fue bastante simple. Todo lo que tienes que hacer es usar un arma sin armas -o tus puños- y golpear a unos cuantos Mirelurks y Pejesapos. Una vez que tengas sangre de cangrejo en tus manos, vuelve y te daré el pago."
+lang["#MISSION_KNEEDEEP_CRUSTACEANBEATDOWN_DESC"] = "Ese trabajo lo publicó algún loco adicto a las drogas que salió del pantano. Lo que pidió fue bastante simple. Todo lo que tienes que hacer es un arma tipo desarmado -o tus puños- y golpear a unos cuantos Mirelurks y Pejesapos. Una vez que tengas sangre de cangrejo en tus manos, vuelve y te daré el pago."
 lang["#MISSION_KNEEDEEP_CRUSTACEANBEATDOWN_HINT"] = "Elimina veinte de cualquier tipo de Mirelurk y cinco Pejesapos con cualquier arma cuerpo a cuerpo sin armas. Los Mirelurks se pueden encontrar esparcidos por el Estuario en el agua. Los Pejesapos se pueden encontrar escondidos alrededor del Alga Atrayente brillante a lo largo de la costa."
 lang["#MISSION_KNEEDEEP_CRUSTACEANBEATDOWN_COMPLETE"] = "¿Realmente lo hiciste? Bien, aquí está el pago."
-lang["#MISSION_KNEEDEEP_CRUSTACEANBEATDOWN_WEAPON"] = "Armas sin armas"
+lang["#MISSION_KNEEDEEP_CRUSTACEANBEATDOWN_WEAPON"] = "Desarmado"
 
 lang["#MISSION_KNEEDEEP_MIREMED"] = "Medicina del Pantano"
 lang["#MISSION_KNEEDEEP_MIREMED_DESC"] = "Esa solicitud la puso un químico local. Quiere que alguien recolecte una serie de fauna y flora locales en el estuario. Tienes que recolectar cinco Algas Atrayentes, cinco Setas Brillantes y tres Tizones. Regresa después de conseguir las cosas y te pagaré."
@@ -40,7 +40,7 @@ lang["#MISSION_KNEEDEEP_LOOKINGBACKDOOR"] = "Mirando por la Puerta Trasera"
 lang["#MISSION_KNEEDEEP_LOOKINGBACKDOOR_DESC"] = "Esta solicitud la hace un ermitaño local llamado Alder.\n\nEl papel dice: \"Estos malditos contrabandistas no han parado de hacer ruido desde que llegaron aquí. Quiero que saquen de mi estuario, pero eso es mucho pedir, así que mejor golpéalos donde duele. Ve a uno de sus campamentos y roba su envío de armas. Tráelo de vuelta aquí a Rodgers, y él te dará acceso a algunas de mis buenas existencias.\""
 lang["#MISSION_KNEEDEEP_LOOKINGBACKDOOR_HINT"] = "Busca una caja de madera sellada dentro de uno de los campamentos de contrabandistas habitados o abandonados en la zona. Normalmente se entregan en bote o se colocan en algún lugar fortificado, así que revisa alrededor del campamento."
 lang["#MISSION_KNEEDEEP_LOOKINGBACKDOOR_COMPLETE"] = "Buen trabajo, ahora elige tu parte de las existencias de Alder."
-lang["#MISSION_KNEEDEEP_LOOKINGBACKDOOR_ITEMNAME"] = "Caja de Armas Sellada"
+lang["#MISSION_KNEEDEEP_LOOKINGBACKDOOR_ITEMNAME"] = "La Caja de Armas Sellada"
 
 lang["#MISSION_HUNT_GATORCLAW_BOSS_EASY"] = "Rey del Estuario"
 lang["#MISSION_HUNT_GATORCLAW_BOSS_EASY_DESC"] = "Esta también es mía. El viejo Colmillo Carmesí ha estado aterrorizando el estuario por un tiempo, y quiero que desaparezca. Es grande, así que ten cuidado. Si puedes acabar con él, haré que valga la pena."
