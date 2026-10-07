@@ -27,11 +27,11 @@ lang["#MISSION_SALEM_AMMOPICKUP"] = "Recogida de Munición"
 lang["#MISSION_SALEM_AMMOPICKUP_DESC"] = "La Caravana ha publicado una solicitud sobre un envío robado. Los detalles son los siguientes: un envío de munición de las Tierras de Ceniza fue interceptado por los Sombríos, destinado a Maverick y sus hombres. Están intentando extorsionarnos por tapas, pero no vamos a ceder. Recupera el envío de uno de sus campamentos en Salem y serás bien pagado. -Maverick"
 lang["#MISSION_SALEM_AMMOPICKUP_HINT"] = "Recupera la brillante caja de munición de un campamento Sombrío en Salem. Puede estar en cualquiera de ellos, así que ponte a buscar."
 lang["#MISSION_SALEM_AMMOPICKUP_COMPLETE"] = "Has completado la tarea. Jams te ofrece una recompensa por tus esfuerzos."
-lang["#MISSION_SALEM_AMMOPICKUP_ITEMNAME"] = "Caja de Munición Robada"
+lang["#MISSION_SALEM_AMMOPICKUP_ITEMNAME"] = "La Caja de Munición Robada"
 
 lang["#MISSION_SALEM_SCRAPHARVEST"] = "Cosecha de Chatarra"
 lang["#MISSION_SALEM_SCRAPHARVEST_DESC"] = "Estamos teniendo muchos problemas para mantener las paredes intactas; son lo único que mantiene a los Sombríos fuera. Necesitamos chatarra para mantenerlas, y la necesitamos rápido. Sal y encuentra algo de chatarra para nosotros, y te ofreceremos piezas más especializadas que no necesitamos. -Maverick"
-lang["#MISSION_SALEM_SCRAPHARVEST_HINT"] = "Recoge Metal de Desecho. Puedes encontrarlo fácilmente descomponiendo coches o en contenedores de botín."
+lang["#MISSION_SALEM_SCRAPHARVEST_HINT"] = "Recoge Chatarra Metalica. Puedes encontrarlo fácilmente descomponiendo coches o en contenedores de botín."
 lang["#MISSION_SALEM_SCRAPHARVEST_COMPLETE"] = "Has completado la tarea. Jams te ofrece una recompensa por tus esfuerzos."
 
 lang["#MISSION_SALEM_NOTQUITEMATERIAL"] = "No es Material Suficiente"
