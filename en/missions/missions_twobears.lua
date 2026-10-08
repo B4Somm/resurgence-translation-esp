@@ -62,5 +62,7 @@ lang["#MISSION_TWOBEARS_LANDUNDER"] = "They Came From A Land Down Under"
 lang["#MISSION_TWOBEARS_LANDUNDER_DESC"] = "So, the tribe from the south was happy with the limestone, and they stated that they have placed a varying amount of goods for us! They informed me they would leave it on the riverbed, and that the ants would lead us to it in the range, so, it is time for nature to guide you!"
 lang["#MISSION_TWOBEARS_LANDUNDER_HINT"] = "Sky Two Bears wants you to find the supplies given by the southern tribe, he said to let the ants guide you in Yolla Bolly, where could that be?"
 lang["#MISSION_TWOBEARS_LANDUNDER_COMPLETE"] = "Amazing! You have quite a pep in your step, and you are becoming one with the land, as I am! Come, and take your pick from what we have both worked for!"
+lang["#MISSION_TWOBEARS_LANDUNDER_ITEMNAME"] = "Southern Tribe Supplies"
+
 
 RELOADSCHEMA = true
