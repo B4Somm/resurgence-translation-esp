@@ -30,7 +30,7 @@ lang["#MISSION_PHILLIPS_TECHNICAL"] = "Dificultades Técnicas"
 lang["#MISSION_PHILLIPS_TECHNICAL_DESC"] = "Es difícil no ver la torre de radio gigante fuera, ¿verdad? Hemos estado tratando de ponerla en marcha durante las últimas semanas, pero le faltan muchas piezas. Tenemos noticias de que hay algunas placas de circuito viejas en el antiguo búnker gubernamental cercano. Están en perfecto estado. Tienen un inconveniente, están intactas porque están en uno de esos silos radiactivos. Si pudieras conseguirnos eso, sería de gran ayuda para que esa cosa funcione. Puedo darte algo de Rad-Away después también. Buena suerte y no brilles demasiado en el camino de vuelta."
 lang["#MISSION_PHILLIPS_TECHNICAL_HINT"] = "Encuentra la Placa de Circuito en el Silo del Búnker de Yolla Bolly."
 lang["#MISSION_PHILLIPS_TECHNICAL_COMPLETE"] = "Bueno, definitivamente tienes un poco de resplandor, pero nada que un Rad-Away no pueda arreglar. Bien hecho, ese es un paso más para volver a contactar con nuestros chicos en casa."
-lang["#MISSION_PHILLIPS_TECHNICAL_ITEMNAME"] = "Placa de Circuito Prístina"
+lang["#MISSION_PHILLIPS_TECHNICAL_ITEMNAME"] = "La Placa de Circuito Prístina"
 
 lang["#MISSION_PHILLIPS_STRANGEMAT"] = "Materiales Extraños"
 lang["#MISSION_PHILLIPS_STRANGEMAT_DESC"] = "¿Has visto a esos extraños tipos fuertemente blindados que han estado aterrizando para destrozar todo? Resulta que incluso después de destrozar su armadura solo para matarlos, algunas de las placas que llevan aún valen la pena. Queremos ver qué podemos hacer con ellas para mejorar nuestra armadura. Confío en ti para esta. No será fácil, pero puedo darte algo de nuestro equipo para compensarlo."
@@ -39,12 +39,12 @@ lang["#MISSION_PHILLIPS_STRANGEMAT_COMPLETE"] = "Bueno, demonios, $playername. V
 
 lang["#MISSION_PHILLIPS_AHEAD"] = "El Camino por Delante"
 lang["#MISSION_PHILLIPS_AHEAD_DESC"] = "Gracias a ti nos va bastante bien por aquí. Les he dicho a algunos de los rangers que empiecen a buscar qué hay al norte. Nuestro progreso se ha visto frenado por esos malditos francotiradores caníbales en el Paso de Montaña. ¿Crees que podrías reducir su número para que podamos pasar?"
-lang["#MISSION_PHILLIPS_AHEAD_HINT"] = "Elimina a los Bandidos Pico de Hielo para que los Rangers puedan continuar su expedición."
+lang["#MISSION_PHILLIPS_AHEAD_HINT"] = "Elimina a los Bandidos Icepicks para que los Rangers puedan continuar su expedición."
 lang["#MISSION_PHILLIPS_AHEAD_COMPLETE"] = "Por fin podemos empezar a buscar el norte gracias a ti. Buen trabajo."
 
 lang["#MISSION_PHILLIPS_RESPECTS"] = "Pagando Respetos"
 lang["#MISSION_PHILLIPS_RESPECTS_DESC"] = "Tengo algo que realmente necesito que hagas. Uno de los nuestros no regresó mientras luchaba contra algunos mutantes en el Búnker de las Tierras de Ceniza. Llevaba consigo el osito de peluche de su hija para llevarlo a aventuras por ella. Necesito que encuentres esa cosa y la devuelvas para ella. Por favor. Sé que pido mucho solo por un osito de peluche, pero significaría mucho para todos nosotros."
-lang["#MISSION_PHILLIPS_RESPECTS_ITEMNAME"] = "Osito de Peluche del Ranger Caído"
+lang["#MISSION_PHILLIPS_RESPECTS_ITEMNAME"] = "El Osito de Peluche del Ranger Caído"
 lang["#MISSION_PHILLIPS_RESPECTS_HINT"] = "Encuentra el osito de peluche del ranger caído para su hija."
 lang["#MISSION_PHILLIPS_RESPECTS_COMPLETE"] = "Gracias por arriesgar tu vida por esto. Me aseguraré de que llegue a ella pronto después de limpiarlo un poco."
 
@@ -76,7 +76,7 @@ lang["#MISSION_PHILLIPS_PEACEMAKER_COMPLETE"] = "¡Felicitaciones! Has derramado
 -- Misiones repetibles, dadas después de completar "Patrulla de Alimañas" y "Dificultades Técnicas"
 lang["#MISSION_PHILLIPS_PUTTING"] = "Juntándolo Todo"
 lang["#MISSION_PHILLIPS_PUTTING_DESC"] = "Ahora podemos empezar a arreglar las partes estructurales de esta torre. Va a necesitar cualquier trozo de metal que tengas y un kit de soldadura."
-lang["#MISSION_PHILLIPS_PUTTING_HINT"] = "Localiza Metal de Desecho y un kit de soldadura para ayudar a los rangers a reparar su torre."
+lang["#MISSION_PHILLIPS_PUTTING_HINT"] = "Obtén chatarra metalica y un kit de soldadura para ayudar a los rangers a reparar su torre."
 lang["#MISSION_PHILLIPS_PUTTING_COMPLETE"] = "Esto no servirá para una reparación completa, pero es un buen comienzo. Gracias."
     
 lang["#MISSION_PHILLIPS_LURKING"] = "Acechando Mortalmente"
@@ -86,7 +86,7 @@ lang["#MISSION_PHILLIPS_LURKING_COMPLETE"] = "Estoy seguro de que habrá más, p
 
 lang["#MISSION_PHILLIPS_CRUSHER"] = "Trituradora de Rocas"
 lang["#MISSION_PHILLIPS_CRUSHER_DESC"] = "Podríamos usar ayuda para limpiar a esos malditos vagabundos que viven en las minas. El valle podría dormir mucho más seguro sin que secuestren y asesinen gente."
-lang["#MISSION_PHILLIPS_CRUSHER_HINT"] = "Elimina a los Muerde Rocas en las minas de Yolla Bolly."
+lang["#MISSION_PHILLIPS_CRUSHER_HINT"] = "Elimina a los Rockbiters en las minas de Yolla Bolly."
 lang["#MISSION_PHILLIPS_CRUSHER_COMPLETE"] = "Podríamos dormir bien esta noche sin tener que preocuparnos de que vengan a tocar a nuestra puerta."
 
 lang["#MISSION_PHILLIPS_FOODPREP"] = "Preparación de Comida"
@@ -101,8 +101,8 @@ lang["#MISSION_PHILLIPS_DRUG_SEIZURE_HINT"] = "Mata a 10 Agentes de Cipher en la
 lang["#MISSION_PHILLIPS_DRUG_SEIZURE_COMPLETE"] = "Con suerte, eso les mostrará lo que pasa cuando intentan expandir sus 'operaciones' hacia nuestro hogar."
 
 lang["#MISSION_PHILLIPS_UNION_BUSTING"] = "Rompiendo la Unión"
-lang["#MISSION_PHILLIPS_UNION_BUSTING_DESC"] = "Esos bastardos Muerde Rocas han estado golpeando duro a los Supervivientes del Valle, recolectando esclavos para el comercio y sus minas. No nos quedaremos de brazos cruzados y dejaremos que esto suceda."
-lang["#MISSION_PHILLIPS_UNION_BUSTING_HINT"] = "Mata a 1 Merodeador Muerde Rocas, 2 Rompevetas Muerde Rocas y 10 Capataces Muerde Rocas."
+lang["#MISSION_PHILLIPS_UNION_BUSTING_DESC"] = "Esos bastardos Rockbiter han estado golpeando duro a los Supervivientes del Valle, recolectando esclavos para el comercio y sus minas. No nos quedaremos de brazos cruzados y dejaremos que esto suceda."
+lang["#MISSION_PHILLIPS_UNION_BUSTING_HINT"] = "Mata a 1 Merodeador Rockbiter, 2 Rompevetas Rockbiter y 10 Capataces Rockbiter."
 lang["#MISSION_PHILLIPS_UNION_BUSTING_COMPLETE"] = "Buena mierda, $playername. Todos en el valle respirarán un poco más tranquilos sabiendo que esos bastardos duermen a dos metros bajo tierra."
 
 RELOADSCHEMA = true
