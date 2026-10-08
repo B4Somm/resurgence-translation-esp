@@ -69,7 +69,7 @@ lang["#MISSION_REDMAN_OLDFRIEND_SEARCH_DESC"] = "Esto no es algo que esté realm
 lang["#MISSION_REDMAN_OLDFRIEND_SEARCH_HINT"] = "Busca a Jackson. El Mayor Redman dice que visitaba comúnmente la cantera y que puede que viva en algún lugar dentro de ella."
 lang["#MISSION_REDMAN_OLDFRIEND_SEARCH_COMPLETE"] = "¿Encontraste esta nota dentro de su choza?"
 lang["#MISSION_REDMAN_OLDFRIEND_SEARCH_CUSTOMUI"] = "Encuentra a Jackson"
-lang["#MISSION_REDMAN_OLDFRIEND_SEARCH_ITEMNAME"] = "Nota"
+lang["#MISSION_REDMAN_OLDFRIEND_SEARCH_ITEMNAME"] = "La Nota"
 
 lang["#MISSION_REDMAN_OLDFRIEND_TRACKS"] = "Viejo Amigo: Rastros"
 lang["#MISSION_REDMAN_OLDFRIEND_TRACKS_DESC"] = "Acabo de leer la nota que dejó. Escribió que tenía unos viejos amigos que vinieron a su casa no hace mucho, y que tuvo que irse rápidamente porque tenían un gran problema en otro lugar, y que probablemente no volvería a casa en mucho tiempo. Eso explicaría su ausencia aquí. También dijo que se dirigiría a la cordillera y que debería estar a salvo sin preocupaciones. Conozco a Jackson, puede cuidarse solo, así que no dudo que esté a salvo, pero aún le debo algo por algunos trabajos que completó aquí. Nunca vino a recoger este paquete. Tiene algunos fondos y munición que pidió. Necesito que se lo lleves, y no solo para dárselo, sino también para ver cómo está. Asegúrate de que esté bien y que no tenga problemas graves. También hazle saber que te envié yo."
@@ -87,7 +87,7 @@ lang["#MISSION_REDMAN_VAULTEXPEDITION_CLEARANCE_DESC"] = "¿Crees que ya estás 
 lang["#MISSION_REDMAN_VAULTEXPEDITION_CLEARANCE_HINT"] = "Encuentra información sobre el refugio. Sal del pueblo, ve a la izquierda, cruza el puente y gira a la derecha en la iglesia, baja la colina y cruza los salares para encontrar la entrada. Encuentra cualquier información que pueda quedar dentro. Es probable que haya algo en la oficina del Supervisor."
 lang["#MISSION_REDMAN_VAULTEXPEDITION_CLEARANCE_COMPLETE"] = "Buen trabajo, $playername. Investigaremos esta holocinta. Aquí está tu recompensa."
 lang["#MISSION_REDMAN_VAULTEXPEDITION_CLEARANCE_CUSTOMUI"] = "Encuentra cualquier información sobre el refugio."
-lang["#MISSION_REDMAN_VAULTEXPEDITION_CLEARANCE_ITEMNAME"] = "Holocinta"
+lang["#MISSION_REDMAN_VAULTEXPEDITION_CLEARANCE_ITEMNAME"] = "La Holocinta"
 
 -- N5
 
@@ -106,6 +106,6 @@ lang["#MISSION_REDMAN_QUARRYSCOUTING"] = "Informes de Exploración"
 lang["#MISSION_REDMAN_QUARRYSCOUTING_DESC"] = "Oye $playername, me alegra ver que aún estás por aquí. Si estás interesado, necesito que investigues algunos informes de exploración de algunas de nuestras patrullas. Tengo informes de que la población de bandidos locales está en la cantera. No tengo idea de qué podrían estar haciendo allí. Echa un vistazo y ve si dejaron algo atrás para que pueda confirmar o negar estos informes y sacarlos de mi lista de casos. Gracias de antemano."
 lang["#MISSION_REDMAN_QUARRYSCOUTING_HINT"] = "Redman quiere que confirmes informes de los 80 en la cantera. Echa un vistazo desde posiciones que puedan ser buenas para explorar y qué podrían dejar atrás los 80."
 lang["#MISSION_REDMAN_QUARRYSCOUTING_COMPLETE"] = "Bueno, parece que mientras estabas fuera, las cosas se están calentando. Nuestra estación de antena fue asaltada y perdimos algunos soldados bien entrenados. Los 80 normalmente no son capaces de cosas así. Creo que es hora de métodos más avanzados. Pondré algo de trabajo en el tablón. Estos drogadictos se están saliendo de control. Toma estos suministros como pago por adelantado de la RNC."
-lang["#MISSION_REDMAN_QUARRYSCOUTING_ITEMNAME"] = "Prueba de los 80"
+lang["#MISSION_REDMAN_QUARRYSCOUTING_ITEMNAME"] = "La Prueba de los 80"
 
 RELOADSCHEMA = true
