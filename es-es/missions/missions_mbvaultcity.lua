@@ -28,7 +28,7 @@ lang["#MISSION_VAULTCITY_VAULTTECSPONSOR"] = "Patrocinado por Vault-Tec" --seman
 lang["#MISSION_VAULTCITY_VAULTTECSPONSOR_DESC"] = "Necesitamos que vayas a un refugio cercano y recuperes un chip de control de energía. Uno de los nuestros se rompió y lleva mucho tiempo crear uno nuevo."
 lang["#MISSION_VAULTCITY_VAULTTECSPONSOR_HINT"] = "Recupera el chip de control de energía del Refugio de Salt Wells."
 lang["#MISSION_VAULTCITY_VAULTTECSPONSOR_COMPLETE"] = "Has completado la tarea."
-lang["#MISSION_VAULTCITY_VAULTTECSPONSOR_ITEMNAME"] = "Chip de Control de Energía"
+lang["#MISSION_VAULTCITY_VAULTTECSPONSOR_ITEMNAME"] = "El Chip de Control de Energía"
 
 lang["#MISSION_VAULTCITY_WATERPURIFICATION"] = "Purificación de Agua"
 lang["#MISSION_VAULTCITY_WATERPURIFICATION_DESC"] = "Necesitamos un nuevo suministro de agua para rellenar nuestras reservas. Puede ser simplemente agua sucia irradiada, ya que podemos purificarla nosotros mismos."
