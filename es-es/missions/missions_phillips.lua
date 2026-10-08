@@ -103,6 +103,6 @@ lang["#MISSION_PHILLIPS_DRUG_SEIZURE_COMPLETE"] = "Con suerte, eso les mostrará
 lang["#MISSION_PHILLIPS_UNION_BUSTING"] = "Rompiendo la Unión"
 lang["#MISSION_PHILLIPS_UNION_BUSTING_DESC"] = "Esos bastardos Rockbiter han estado golpeando duro a los Supervivientes del Valle, recolectando esclavos para el comercio y sus minas. No nos quedaremos de brazos cruzados y dejaremos que esto suceda."
 lang["#MISSION_PHILLIPS_UNION_BUSTING_HINT"] = "Mata a 1 Merodeador Rockbiter, 2 Rompevetas Rockbiter y 10 Capataces Rockbiter."
-lang["#MISSION_PHILLIPS_UNION_BUSTING_COMPLETE"] = "Buena mierda, $playername. Todos en el valle respirarán un poco más tranquilos sabiendo que esos bastardos duermen a dos metros bajo tierra."
+lang["#MISSION_PHILLIPS_UNION_BUSTING_COMPLETE"] = "Buen trabajo, $playername. Todos en el valle respirarán un poco más tranquilos sabiendo que esos bastardos duermen a dos metros bajo tierra."
 
 RELOADSCHEMA = true
