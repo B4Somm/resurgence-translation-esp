@@ -132,6 +132,7 @@ lang["#NPC_YAOGUAI_RANK4"] = "Yao Guai Oscuro"
 lang["#NPC_YAOGUAI_RANK5"] = "Yao Guai Necrofago"
 lang["#NPC_YAOGUAI_RANK6"] = "Yao Guai Irradiado"
 lang["#NPC_YAOGUAI_RANK7"] = "Yao Guai Brillante"
+lang["#NPC_YAOGUAI_ALBINO"] = "Yao Guai Frenetico"
 -- Bloodworm
 lang["#NPC_BLOODWORM"] = "Gusano"
 lang["#NPC_BLOODWORMS"] = "Gusanos"
@@ -190,6 +191,7 @@ lang["#NPC_MIRELURK_SPAWN_RANK2"] = "Criá De Mirelurk Brillante"
 -- Mirelurk Queen
 
 -- Mirelurk King
+lang["#NPC_DEEPONE"] = "El Profundo"
 
 -- Angler
 lang["#NPC_ANGLER"] = "Pejesapo"
@@ -236,11 +238,12 @@ lang["#NPC_80SBANDIT_RANK3"] = "Salteador de Caminos" -- a "Highwayman" is a nam
 lang["#NPC_80SBANDIT_RANK4"] = "Agente De Carretera" -- another name for a "highwayman"
 lang["#NPC_80SBANDIT_RANK5"] = "Camionazo" -- a "Big Rig" is a nickname for a Semitruck, the kind used to haul large cargo trailers
 lang["#NPC_80SBANDIT_BOSS"] = "Capitán Gyro" -- Mad Max reference
-lang["#NPC_80SBANDIT_RANK6"] = "Tren-Dolor"
+lang["#NPC_80SBANDIT_RANK6"] = "Tren de Dolor"
 
 -- New California Republic
 lang["#NPC_NCRTROOPER"] = "Tropa de la RNC"
 lang["#NPC_NCRTROOPERS"] = "Tropas de la RNC"
+lang["#NPC_NCRSOLDIERS"] = "Soldados de la RNC"
 lang["#NPC_NCRSOLDIER"] = "Tropa"
 lang["#NPC_NCRQUARTERMASTER"] = "Intendente Héctor"
 lang["#NPC_NCRARMORYQUARTERMASTER"] = "Teniente Barnes"
@@ -302,7 +305,7 @@ lang["#NPC_ROCKBITERBANDIT_RANK6"] = "Merodeador"
 
 -- Smugglers
 lang["#NPC_SMUGGLERBANDIT"] = "Contrabandista"
-lang["#NPC_SMUGGLERRBANDITS"] = "Contrabandistas"
+lang["#NPC_SMUGGLERBANDITS"] = "Contrabandistas"
 lang["#NPC_SMUGGLERBANDIT_RANK1"] = "Mula"
 lang["#NPC_SMUGGLERBANDIT_RANK2"] = "Vendedor"
 lang["#NPC_SMUGGLERBANDIT_RANK2_OVERWATCH"] = "Vigía"
@@ -326,6 +329,15 @@ lang["#NPC_SHADOWEDBANDIT_BOSS"] = "El Rompe-Juramentos"
 lang["#NPC_REAVERSBANDIT"] = "Bandido Reaver"
 lang["#NPC_REAVERSBANDITS"] = "Bandidos Reaver"
 lang["#NPC_REAVERSBANDIT_RANK1"] = "Pionero"
+lang["#NPC_REAVERSBANDIT_RANK2"] = "Breacher"
+lang["#NPC_REAVERSBANDIT_RANK3"] = "Tecnócrata"
+lang["#NPC_REAVERSBANDIT_RANK4"] = "Exulum"
+lang["#NPC_REAVERSBANDIT_RANK5"] = "Pretoriano"
+lang["#NPC_REAVERSBANDIT_RANK6"] = "Legado"
+
+lang["#NPC_REAVERSSUPERMUTANT_RANK1"] = "Opprimo de Gammorin"
+lang["#NPC_REAVERSSUPERMUTANT_RANK1"] = "Saboter de Gammorin"
+lang["#NPC_REAVERSSUPERMUTANT_RANK1"] = "Exulum de Gammorin"
 
 -- Mercenaries
 lang["#NPC_MERC"] = "Mercenario"
@@ -336,7 +348,7 @@ lang["#NPC_MERCSNIPER"] = "Francotirador Mercenario"
 -- Cipher Agents
 lang["#NPC_CIPHERAGENT"] = "Agente de Cipher"-----------------------------------Cipher, General
 lang["#NPC_CIPHERAGENTS"] = "Agentes de Cipher"--                               Cipher, Generals
-lang["#NPC_CIPHERAGENT_RANK1"] = "Interno"--                                 Intern
+lang["#NPC_CIPHERAGENT_RANK1"] = "Becario"--                                 Intern
 lang["#NPC_CIPHERAGENT_RANK2"] = "Contratista"--                             Contractor
 lang["#NPC_CIPHERAGENT_RANK3"] = "Socio"--                              Associate
 lang["#NPC_CIPHERAGENT_RANK4"] = "Gerente"--                                Manager
@@ -363,6 +375,7 @@ lang["#NPC_BOS_SOLDIER_SCRIBE4"] = "Escriba Sénior" ---------------------Scribe
 
 --Enclave
 lang["#NPC_ENCLAVE"] = "Enclave"
+lang["#NPC_ENCLAVE_SPECOPS"] = "Fuerzas Especiales del Enclave"
 lang["#NPC_ENCLAVE_SCOUT"] = "Soldado"
 lang["#NPC_ENCLAVE_RECON"] = "Soldado"
 lang["#NPC_ENCLAVE_PA"] = "Patrullero"
@@ -373,7 +386,7 @@ lang["#NPC_ENCLAVE_OFFICER_INTEL"] = "Oficial De Inteligencia"
 lang["#NPC_ENCLAVE_SECRET_SERVICE"] = "Guardia Del Servicio Secreto"
 lang["#NPC_ENCLAVE_SCIENTIST"] = "Científico"
 lang["#NPC_ENCLAVE_COMBAT_MEDIC"] = "Medico de Combate"
-lang["#NPC_ENCLAVE_SPECOPS_SCIENTIST"] = "Medico de Combate De Fuerzas Especiales"
+lang["#NPC_ENCLAVE_SPECOPS_SCIENTIST"] = "Medico De Fuerzas Especiales"
 lang["#NPC_ENCLAVE_SPECOPS_GUNNER"] = "Artillero De Fuerzas Especiales"
 lang["#NPC_ENCLAVE_SPECOPS_PA"] = "Artillero Pesado De Fuerzas Especiales"
 lang["#NPC_ENCLAVE_SPECOPS_SNIPER"] = "Francotirador De Fuerzas Especiales"
@@ -542,6 +555,7 @@ lang["#NPC_DEATHCLAW_RANK3"] = "Sanguinario Camaleon"
 lang["#NPC_DEATHCLAW_RANK4"] = "Sanguinario Macho Alfa"
 lang["#NPC_DEATHCLAW_RANK5"] = "Sanguinario Matriarca"
 lang["#NPC_DEATHCLAW_RANK6"] = "Sanguinario Macho Alfa Camaleon"
+lang["NPC_DEATHCLAW_BOSS"] = "Unguem Mortis"
 
 lang["#NPC_GATORCLAW"] = "Crocogarra"
 lang["#NPC_GATORCLAWS"] = "Crocogarras"
